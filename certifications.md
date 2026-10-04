@@ -1,6 +1,6 @@
 # Certifications and Courses
 
-## Certifications
+## Courses
 
 - Git and GitHub Fundamentals
 - Introduction to Programming
