@@ -1,0 +1,19 @@
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+
